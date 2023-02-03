@@ -6,7 +6,7 @@
 
 ## Análise dos Dados do Airbnb - Buenos Aires
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
+Neste projeto foi feita uma breve análise com os dados do Airbnb, uma plataforma online que permite pessoas do mundo inteiro ofereçam suas casas para usuários que buscam acomodações em qualquer lugar do mundo.
 
 [Link para o projeto completo](https://medium.com/@rafaelnduarte)
 
