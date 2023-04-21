@@ -8,7 +8,7 @@
 
 Neste projeto foi feita uma breve análise com os dados do Airbnb, uma plataforma online que permite pessoas do mundo inteiro ofereçam suas casas para usuários que buscam acomodações em qualquer lugar do mundo.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Link para o projeto completo](https://github.com/Tha-Helena/Analise_de_Dados_Airbnb_Buenos_Aires/blob/main/Projeto_01_Analisando_os_Dados_do_Airbnb.ipynb)
 
 **Links para me acharem:**
 * [Blog](https://github.com/Tha-Helena)
