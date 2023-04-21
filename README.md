@@ -22,8 +22,5 @@ Neste projeto foi feita uma breve análise com os dados do Airbnb, uma plataform
 ## Outros Projetos Meus:
 
 Business
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
+* **[Análise sobre a COVID-19](https://tinyurl.com/yuzycjhh)**
 
-* **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
- 
-* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
