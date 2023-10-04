@@ -23,4 +23,5 @@ Neste projeto foi feita uma breve análise com os dados do Airbnb, uma plataform
 
 Business
 * **[Análise sobre a COVID-19](https://tinyurl.com/yuzycjhh)**
+* **[Detecção de Fraude em Cartões de Crédito](https://tinyurl.com/4wxt73rx)**
 
